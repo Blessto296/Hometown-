@@ -2,14 +2,21 @@ table {
     width: 50%;
     border-collapse: collapse;
 }
+
 td {
     padding: 8px;
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
+
 th {
     background-color: #9a1414;
 }
-td{
+
+td {
     color: #941d1d;
+}
+
+h2 {
+    background-color: antiquewhite;
 }
